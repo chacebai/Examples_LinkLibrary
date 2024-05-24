@@ -1,8 +1,8 @@
+#include <stdio.h>
 #pragma comment(lib, "../Debug/Calclib_static.lib")
 
 int main()
 {
-
 	int sum = 0;
 	int sub = 0;
 	sum = lib_add(5, 3);
