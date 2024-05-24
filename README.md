@@ -5,9 +5,10 @@
 | Example01_C_Calclib                   | sln    | c语言调用c静态库                          | visual studio 2010               |
 | Example02_CalcCPPlib                  | sln    | c++语言调用c++静态库                      | visual studio 2010               |
 | Example03_CalcCPPlib                  | sln    | C++语言调用c静态库                        | visual studio 2010               |
-| Example04_CalcClib                    | sln    | C语言调用c动态库                        | visual studio 2010               |
-| Example05_CalcCPPlib                  | sln    | c++语言调用c++动态库                      | visual studio 2010               |
-| Example06_CalcCPPlib                  | sln    | c++语言调用c动态库                        | visual studio 2010               |
+| Example04_CalcClib                    | sln    | C语言调用c动态库                          | visual studio 2010               |
+| Example05_CalcCPPlib                  | sln    | c++语言隐式调用c++动态库                   | visual studio 2010               |
+| Example06_CalcCPPlib                  | sln    | c++语言显示调用c++动态库                   | visual studio 2010               |
+| Example07_CalcCPPlib                  | sln    | c++语言调用c动态库                        | visual studio 2010               |
 
 
 

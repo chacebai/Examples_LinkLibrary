@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalcCPPlib", "CalcCPPlib\CalcCPPlib.vcxproj", "{0B314005-67CA-4B59-A8BB-F92A6EB7286A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalcCPPlib_dynamic", "CalcCPPlib_dynamic\CalcCPPlib_dynamic.vcxproj", "{942D1168-054C-478F-BECB-B210C6FA518F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B314005-67CA-4B59-A8BB-F92A6EB7286A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B314005-67CA-4B59-A8BB-F92A6EB7286A}.Debug|Win32.Build.0 = Debug|Win32
+		{0B314005-67CA-4B59-A8BB-F92A6EB7286A}.Release|Win32.ActiveCfg = Release|Win32
+		{0B314005-67CA-4B59-A8BB-F92A6EB7286A}.Release|Win32.Build.0 = Release|Win32
+		{942D1168-054C-478F-BECB-B210C6FA518F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{942D1168-054C-478F-BECB-B210C6FA518F}.Debug|Win32.Build.0 = Debug|Win32
+		{942D1168-054C-478F-BECB-B210C6FA518F}.Release|Win32.ActiveCfg = Release|Win32
+		{942D1168-054C-478F-BECB-B210C6FA518F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

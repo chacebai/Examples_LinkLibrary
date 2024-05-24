@@ -1,0 +1,4 @@
+LIBRARY CalcCPPlib_dynamic
+EXPORTS
+  dll_add @1
+  dll_sub @2
