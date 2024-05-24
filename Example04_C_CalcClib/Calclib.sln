@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calclib", "Calclib\Calclib.vcxproj", "{F3343B3C-3514-48C4-9BA1-6A1ECE6676A8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calclib_dynamic", "Calclib_dynamic\Calclib_dynamic.vcxproj", "{F11B5611-8C4C-4BCB-A36A-3AE746457923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3343B3C-3514-48C4-9BA1-6A1ECE6676A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3343B3C-3514-48C4-9BA1-6A1ECE6676A8}.Debug|Win32.Build.0 = Debug|Win32
+		{F3343B3C-3514-48C4-9BA1-6A1ECE6676A8}.Release|Win32.ActiveCfg = Release|Win32
+		{F3343B3C-3514-48C4-9BA1-6A1ECE6676A8}.Release|Win32.Build.0 = Release|Win32
+		{F11B5611-8C4C-4BCB-A36A-3AE746457923}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F11B5611-8C4C-4BCB-A36A-3AE746457923}.Debug|Win32.Build.0 = Debug|Win32
+		{F11B5611-8C4C-4BCB-A36A-3AE746457923}.Release|Win32.ActiveCfg = Release|Win32
+		{F11B5611-8C4C-4BCB-A36A-3AE746457923}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
