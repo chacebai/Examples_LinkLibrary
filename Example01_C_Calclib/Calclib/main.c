@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #pragma comment(lib, "../Debug/Calclib_static.lib")
 
 int main()
