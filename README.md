@@ -9,6 +9,8 @@
 | Example05_CalcCPPlib                  | sln    | c++语言隐式调用c++动态库导出的函数           | visual studio 2010               |
 | Example06_CalcCPPlib                  | sln    | c++语言显示调用c++动态库导出的函数           | visual studio 2010               |
 | Example07_CalcCPPlib                  | sln    | c++语言隐式调用c++动态库导出的类             | visual studio 2010               |
+| Example08_CalcCPPlib                  | sln    | c++语言显示调用c++动态库导出的类             | visual studio 2022               |
+| Example11_DelayLoadTest               | sln    | c++语言延迟调用c++动态库导出的函数           | visual studio 2022               |
 
 
 
